@@ -15,16 +15,18 @@ def rename_image(label_dict={}, out_file='train_new.csv'):
     i = 1
     with open(out_file, 'w') as f:
         for key in label_dict.keys():
-            if not os.path.isfile(key):
-                continue
-
+            
+            # os.path.split() 'PATH''/' act split symbol
+            # os.path.split('/home/zhex/soft/python/test.jpg'),return  '/home/zhex/soft/python'和'test.jpg'
             image_name = os.path.split(key)[-1]
             new_image_name = '%09d'%i + '.jpg'
             i = i + 1
-            # 改名
+           
+            # rename
             new_key = key.replace(image_name, new_image_name)
             os.renames(key, new_key)
-
+            
+            # generate new dict
             new_label_dict.setdefault(new_key, label_dict.get(key, []))
             utils.write_csv(new_label_dict, out_path=out_file)
 
