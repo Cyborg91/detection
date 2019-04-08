@@ -8,13 +8,13 @@ from xml.dom.minidom import parseString
 
 def save_xml(image_name, bbox, save_dir='/home/zhex/data/yuncong/Annotations', width=640, height=480, channel=3):
     '''
-  将CSV中的一行
+  CSV file one column
   xxxxxx.jpg [[1,2,3,4],...]
-  转化成
+  change into
   xxxxxx.xml
 
   :param image_name
-  :param bbox:对应的bbox
+  :param bbox:
   :param save_dir
   :param width
   :param height
@@ -25,7 +25,7 @@ def save_xml(image_name, bbox, save_dir='/home/zhex/data/yuncong/Annotations', w
     node_root = Element('annotation')
 
     node_folder = SubElement(node_root, 'folder')
-    node_folder.text = 'train_data'
+    node_folder.text = 'JPEGImages'
 
     node_filename = SubElement(node_root, 'filename')
     node_filename.text = image_name
@@ -76,7 +76,7 @@ def change2xml(label_dict={}):
 
 
 def main():
-    label_dict = utils.read_csv(csv_path=r'out.csv',pre_dir=r'/home/zhex/data/yuncong/JPEGImages')
+    label_dict = utils.read_csv(csv_path=r'train.csv',pre_dir=r'')
     change2xml(label_dict)
 
 main()
