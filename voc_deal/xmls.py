@@ -40,8 +40,8 @@ def save_xml(image_name, bbox, save_dir='/home/zhex/data/yuncong/Annotations', w
     node_depth = SubElement(node_size, 'depth')
     node_depth.text = '%s' % channel
 
-    for x, y, w, h in bbox:
-        left, top, right, bottom = x, y, x + w, y + h
+    for x1, y1, x2, y2 in bbox:
+        left, top, right, bottom = x1, y1, x2, y2
         node_object = SubElement(node_root, 'object')
         node_name = SubElement(node_object, 'name')
         node_name.text = 'car'
