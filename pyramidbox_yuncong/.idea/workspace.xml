@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/test_yuncong.py" line="95" mnemonic="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fc41e26-d5d3-4001-aa70-42fec02f5f75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test_image/IMG_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018云从人头技术-ZJUAI-PyramidBoxDetector.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/widerface.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/widerface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/widerface_bk.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/widerface_bk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_aug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_aug_mall.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_aug_mall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_aug_our.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_aug_our.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_aug_parta.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_aug_parta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_aug_partb.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_aug_partb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_aug_ucsd.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_aug_ucsd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layers/box_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/layers/box_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layers/functions/prior_box.py" beforeDir="false" afterPath="$PROJECT_DIR$/layers/functions/prior_box.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layers/modules/multibox_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/layers/modules/multibox_loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyramid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_yuncong_mod_test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_yuncong_mod_test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_yuncong_nms_test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_yuncong_nms_test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_yuncong_our_test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_yuncong_our_test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_yuncong_our_test2_visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_yuncong_our_test2_visualize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topytorch_Mall.py" beforeDir="false" afterPath="$PROJECT_DIR$/topytorch_Mall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topytorch_our.py" beforeDir="false" afterPath="$PROJECT_DIR$/topytorch_our.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_yuncong_Mall.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_yuncong_Mall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/云从人头计数冠军方案分享.pptx" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_yuncong.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1457">
+              <caret line="306" lean-forward="true" selection-start-line="306" selection-end-line="306" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>image</find>
+      <find>multi_scale_test</find>
+      <find>shrink</find>
+      <find>max_im_shrink</find>
+      <find>eval</find>
+      <find>detect_face</find>
+      <find>phase</find>
+      <find>load_state_dict</find>
+      <find>x_shape</find>
+      <find>draw_bboxes</find>
+      <find>args.probability</find>
+      <find>dets</find>
+      <find>PriorBoxLayer</find>
+      <find>merge_index</find>
+      <find>print</find>
+      <find>nn.functional.upsample</find>
+      <find>flip_test</find>
+      <find>SFD</find>
+      <find>float32</find>
+      <find>size</find>
+      <find>resume</find>
+      <find>general</find>
+      <find>build_sfd</find>
+      <find>write</find>
+      <find>item</find>
+      <find>dataset_name</find>
+      <find>self.name</find>
+      <find>Detection</find>
+      <find>no_grad</find>
+      <find>torch.no</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/topytorch.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data_aug_partb.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/layers/box_utils.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data_aug_our.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_yuncong.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pyramid.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data/widerface.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_yuncong_nms.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data/widerface_bk.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data_aug_parta.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/topytorch_Mall.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data_aug_ucsd.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_yuncong_nms_test2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_yuncong_our_test2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/train_yuncong_Mall.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/layers/functions/prior_box.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data_origin.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data_aug_mall.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_yuncong_mod_test2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/topytorch_our.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_yuncong_our_test2_visualize.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/our.py" />
+        <option value="$PROJECT_DIR$/our_video.py" />
+        <option value="$PROJECT_DIR$/data_aug_mall.py" />
+        <option value="$PROJECT_DIR$/data_aug.py" />
+        <option value="$PROJECT_DIR$/data_aug_parta.py" />
+        <option value="$PROJECT_DIR$/data_aug_partb.py" />
+        <option value="$PROJECT_DIR$/data_aug_ucsd.py" />
+        <option value="$PROJECT_DIR$/data_aug_our.py" />
+        <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/txt/tmp.py" />
+        <option value="$PROJECT_DIR$/topytorch_our.py" />
+        <option value="$PROJECT_DIR$/data_origin.py" />
+        <option value="$PROJECT_DIR$/pt_txt/jpg.py" />
+        <option value="$PROJECT_DIR$/test_yuncong_our_test2.py" />
+        <option value="$PROJECT_DIR$/test_yuncong_mod_test2.py" />
+        <option value="$PROJECT_DIR$/pt_txt/cyy_test.txt" />
+        <option value="$PROJECT_DIR$/video.py" />
+        <option value="$PROJECT_DIR$/layers/functions/prior_box.py" />
+        <option value="$PROJECT_DIR$/test_yuncong_img.py" />
+        <option value="$PROJECT_DIR$/layers/box_utils.py" />
+        <option value="$USER_HOME$/anaconda3/envs/yuncong1.1/lib/python3.6/site-packages/torch/nn/functional.py" />
+        <option value="$PROJECT_DIR$/test_yuncong_nms.py" />
+        <option value="$PROJECT_DIR$/test_yuncong_nms_test2.py" />
+        <option value="$PROJECT_DIR$/topytorch_Mall.py" />
+        <option value="$PROJECT_DIR$/layers/modules/multibox_loss.py" />
+        <option value="$PROJECT_DIR$/data/widerface_bk.py" />
+        <option value="$PROJECT_DIR$/train_yuncong_Mall.py" />
+        <option value="$PROJECT_DIR$/data/widerface.py" />
+        <option value="$PROJECT_DIR$/pt_txt/jiankong.txt" />
+        <option value="$PROJECT_DIR$/test_yuncong_our_test2_visualize.py" />
+        <option value="$PROJECT_DIR$/pyramid.py" />
+        <option value="$PROJECT_DIR$/test_yuncong.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1922" />
+    <option name="y" value="34" />
+    <option name="width" value="1916" />
+    <option name="height" value="987" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="462c0819:PsiDirectoryNode" />
+              <item name="weights" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="462c0819:PsiDirectoryNode" />
+              <item name="yuncong_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test_image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/txt" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_yuncong">
+    <configuration name="data_aug_partb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2018--ZJUAI--PyramidBoxDetector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_aug_partb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_yuncong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2018--ZJUAI--PyramidBoxDetector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_yuncong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_yuncong" />
+        <item itemvalue="Python.data_aug_partb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fc41e26-d5d3-4001-aa70-42fec02f5f75" name="Default Changelist" comment="" />
+      <created>1558614019303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558614019303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1922" y="34" width="1916" height="987" extended-state="0" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.50091076" side_tool="true" weight="0.20106952" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49908924" visible="true" weight="0.24169347" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3092182" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32788798" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="make" order="3" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_aug_mall.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_image/IMG_102.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_image/IMG_94.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/yuncong1.1/lib/python3.6/site-packages/torch/nn/modules/conv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="337" selection-start-line="337" selection-end-line="337" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_image/04.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_image/IMG_21.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_image/IMG_27.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_image/IMG_4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_image/IMG_9.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_image/IMG_33.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_image/IMG_243.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_image/IMG_81.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuncong_test/cyy/01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/best_mod_our20190613_102827.txt" />
+    <entry file="file://$PROJECT_DIR$/test_yuncong_nms_test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="273" column="45" selection-start-line="273" selection-start-column="45" selection-end-line="273" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_yuncong_nms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="250" lean-forward="true" selection-start-line="250" selection-end-line="250" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topytorch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topytorch_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_yuncong_nobaseline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_yuncong_our_aug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1311">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_aug_mall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#76#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aug_txt/our.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_yuncong_UCSD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1197">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_yuncong_our.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topytorch_Mall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layers/modules/multibox_loss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="107" column="38" lean-forward="true" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topytorch_our_Mall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/widerface_bk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="89" column="25" lean-forward="true" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="25" />
+          <folding>
+            <element signature="e#178#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final_Mall_pt.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="4500" selection-start-line="4500" selection-end-line="4500" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_train.txt" />
+    <entry file="file://$PROJECT_DIR$/data/widerface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="101" column="28" selection-start-line="101" selection-start-column="28" selection-end-line="101" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_yuncong_Mall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3007">
+          <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt_txt/our_test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt_txt/our_pt.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt_txt/cyy_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt_txt/jiankong.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/01_3999.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/01_4000.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/01_4001.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/01_4002.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/01_5000.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/01_5500.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/01_6000.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/01_6500.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_yuncong_our_Mall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="53" column="57" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_yuncong_mod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="248" column="20" selection-start-line="248" selection-start-column="20" selection-end-line="248" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layers/functions/detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/yuncong1.1/lib/python3.6/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="491" column="13" lean-forward="true" selection-start-line="491" selection-start-column="13" selection-end-line="491" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="241" column="55" lean-forward="true" selection-start-line="241" selection-start-column="55" selection-end-line="241" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/yuncong/lib/python3.6/site-packages/torch/serialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1259">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_yuncong_our_test2_visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="277" column="33" lean-forward="true" selection-start-line="277" selection-start-column="33" selection-end-line="277" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_yuncong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1457">
+          <caret line="306" lean-forward="true" selection-start-line="306" selection-end-line="306" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
