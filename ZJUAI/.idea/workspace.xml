@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/test_yuncong.py" line="92" mnemonic="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fc41e26-d5d3-4001-aa70-42fec02f5f75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test_image/IMG_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018云从人头技术-ZJUAI-PyramidBoxDetector.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/widerface.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/widerface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/widerface_bk.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/widerface_bk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_aug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_aug_mall.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_aug_mall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_aug_our.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_aug_our.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_aug_parta.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_aug_parta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_aug_partb.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_aug_partb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_aug_ucsd.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_aug_ucsd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layers/box_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/layers/box_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layers/functions/prior_box.py" beforeDir="false" afterPath="$PROJECT_DIR$/layers/functions/prior_box.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layers/modules/multibox_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/layers/modules/multibox_loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyramid.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyramid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_yuncong_mod_test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_yuncong_mod_test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_yuncong_nms_test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_yuncong_nms_test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_yuncong_our_test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_yuncong_our_test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_yuncong_our_test2_visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_yuncong_our_test2_visualize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topytorch_Mall.py" beforeDir="false" afterPath="$PROJECT_DIR$/topytorch_Mall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topytorch_our.py" beforeDir="false" afterPath="$PROJECT_DIR$/topytorch_our.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_yuncong_Mall.py" beforeDir="false" afterPath="$PROJECT_DIR$/train_yuncong_Mall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/云从人头计数冠军方案分享.pptx" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layers/box_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="152" selection-start-line="152" selection-end-line="168" selection-end-column="7" />
+              <folding>
+                <element signature="e#24#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo_img.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="936">
+              <caret line="343" selection-start-line="343" selection-end-line="343" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_openimages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-481">
+              <caret line="141" column="24" lean-forward="true" selection-start-line="141" selection-start-column="24" selection-end-line="141" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layers/modules/multibox_loss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="134" column="38" selection-start-line="134" selection-start-column="38" selection-end-line="134" selection-end-column="38" />
+              <folding>
+                <element signature="e#24#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/validation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_aug_mall.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1558">
+              <caret line="82" column="40" lean-forward="true" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
+              <folding>
+                <element signature="e#76#94#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyramid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="95" column="24" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/augmentations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="503" column="8" selection-start-line="503" selection-start-column="8" selection-end-line="503" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/widerface.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="120" column="31" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="76" />
+              <folding>
+                <element signature="e#178#187#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>item</find>
+      <find>dataset_name</find>
+      <find>self.name</find>
+      <find>no_grad</find>
+      <find>torch.no</find>
+      <find>priorbox</find>
+      <find>PriorBoxLayer</find>
+      <find>annoPath</find>
+      <find>readlist</find>
+      <find>writelist</find>
+      <find>Detection</find>
+      <find>-</find>
+      <find>AnnotationTransform</find>
+      <find>print</find>
+      <find>args.cuda</find>
+      <find>init</find>
+      <find>pull_item</find>
+      <find>str2bool</find>
+      <find>xavier</find>
+      <find>weights_init</find>
+      <find>net</find>
+      <find>build_sfd</find>
+      <find>head_loc</find>
+      <find>num_classes</find>
+      <find>face</find>
+      <find>optimizer</find>
+      <find>bipartite</find>
+      <find>match</find>
+      <find>ground_truth_list</find>
+      <find>min_loss</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/layers/modules/multibox_loss.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/augfile_Umbrella.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/topytorch.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data_aug_partb.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/layers/box_utils.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data_aug_our.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_yuncong.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/tools/cv2/pic_video.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pyramid.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data/widerface.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/demo.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data/widerface_bk.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data/config.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/train_openimages.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/topytorch_Mall.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_yuncong_nms_test2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/demo_img.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_yuncong_our_test2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data_origin.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data_aug_Umbrella.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_yuncong_nms.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data_aug_parta.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data_aug_ucsd.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/validation.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/train_yuncong_Mall.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/layers/functions/prior_box.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/data_aug_mall.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_yuncong_mod_test2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/topytorch_our.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_yuncong_our_test2_visualize.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/layers/functions/detection.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/our.py" />
+        <option value="$PROJECT_DIR$/our_video.py" />
+        <option value="$PROJECT_DIR$/data_aug.py" />
+        <option value="$PROJECT_DIR$/data_aug_parta.py" />
+        <option value="$PROJECT_DIR$/data_aug_partb.py" />
+        <option value="$PROJECT_DIR$/data_aug_ucsd.py" />
+        <option value="$PROJECT_DIR$/data_aug_our.py" />
+        <option value="$PROJECT_DIR$/txt/tmp.py" />
+        <option value="$PROJECT_DIR$/topytorch_our.py" />
+        <option value="$PROJECT_DIR$/data_origin.py" />
+        <option value="$PROJECT_DIR$/pt_txt/jpg.py" />
+        <option value="$PROJECT_DIR$/test_yuncong_our_test2.py" />
+        <option value="$PROJECT_DIR$/test_yuncong_mod_test2.py" />
+        <option value="$PROJECT_DIR$/pt_txt/cyy_test.txt" />
+        <option value="$PROJECT_DIR$/video.py" />
+        <option value="$PROJECT_DIR$/layers/functions/prior_box.py" />
+        <option value="$PROJECT_DIR$/test_yuncong_img.py" />
+        <option value="$USER_HOME$/anaconda3/envs/yuncong1.1/lib/python3.6/site-packages/torch/nn/functional.py" />
+        <option value="$PROJECT_DIR$/test_yuncong_nms.py" />
+        <option value="$PROJECT_DIR$/test_yuncong_nms_test2.py" />
+        <option value="$PROJECT_DIR$/topytorch_Mall.py" />
+        <option value="$PROJECT_DIR$/data/widerface_bk.py" />
+        <option value="$PROJECT_DIR$/train_yuncong_Mall.py" />
+        <option value="$PROJECT_DIR$/pt_txt/jiankong.txt" />
+        <option value="$PROJECT_DIR$/test_yuncong_our_test2_visualize.py" />
+        <option value="$PROJECT_DIR$/pyramid.py" />
+        <option value="$USER_HOME$/tools/cv2/pic_video.py" />
+        <option value="$PROJECT_DIR$/layers/functions/detection.py" />
+        <option value="$PROJECT_DIR$/test_yuncong.py" />
+        <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/data_aug_hat.py" />
+        <option value="$PROJECT_DIR$/data_aug_Cowboy_hat.py" />
+        <option value="$PROJECT_DIR$/data_aug_Umbrella.py" />
+        <option value="$PROJECT_DIR$/demo_img.py" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/data/widerface.py" />
+        <option value="$PROJECT_DIR$/layers/box_utils.py" />
+        <option value="$PROJECT_DIR$/layers/modules/multibox_loss.py" />
+        <option value="$PROJECT_DIR$/fg.py" />
+        <option value="$PROJECT_DIR$/train_openimages.py" />
+        <option value="$PROJECT_DIR$/validation.py" />
+        <option value="$PROJECT_DIR$/data_aug_mall.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="462c0819:PsiDirectoryNode" />
+              <item name="layers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="462c0819:PsiDirectoryNode" />
+              <item name="layers" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2018--ZJUAI--PyramidBoxDetector" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TensorRT-Yolov3" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test_image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/txt" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_yuncong">
+    <configuration name="data_aug_partb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2018--ZJUAI--PyramidBoxDetector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_aug_partb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_yuncong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2018--ZJUAI--PyramidBoxDetector" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_yuncong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_yuncong" />
+        <item itemvalue="Python.data_aug_partb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fc41e26-d5d3-4001-aa70-42fec02f5f75" name="Default Changelist" comment="" />
+      <created>1558614019303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558614019303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="-4" width="1920" height="1045" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.50091076" side_tool="true" weight="0.20106952" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49908924" visible="true" weight="0.14278075" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32896176" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.26775956" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32788798" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="make" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" sideWeight="0.50091076" side_tool="true" weight="0.20106952" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49908924" visible="true" weight="0.19411765" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32896176" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.09726776" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32788798" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="make" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/11_01.jpg" />
+    <entry file="file://$PROJECT_DIR$/data_origin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_aug_parta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#76#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_aug_our.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/yuncong/lib/python3.6/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="2608" selection-start-line="2608" selection-end-line="2608" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_aug_ucsd.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_yuncong_Mall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2328">
+          <caret line="133" column="14" selection-start-line="133" selection-start-column="14" selection-end-line="133" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/OID/tools/new_txt/hat.txt" />
+    <entry file="file://$PROJECT_DIR$/augfile_hat.txt" />
+    <entry file="file://$PROJECT_DIR$/data_aug_hat.py" />
+    <entry file="file://$PROJECT_DIR$/augfile_Cowboy_hat.txt" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/yuncong/lib/python3.6/site-packages/PIL/JpegImagePlugin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="619" selection-start-line="619" selection-end-line="619" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_aug_Cowboy_hat.py" />
+    <entry file="file://$USER_HOME$/OID/tools/new_txt/Umbrella.txt" />
+    <entry file="file://$USER_HOME$/OID/tools/new_txt/train.txt" />
+    <entry file="file://$PROJECT_DIR$/aug_txt/augfile_Mall.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/data/OID_origin/tools/new_txt/train_hat.txt" />
+    <entry file="file://$USER_HOME$/data/OID_origin/tools/new_txt/train_umbrella.txt" />
+    <entry file="file://$PROJECT_DIR$/OID_origin/train/Umbrella/myaug/0a0de8f53c81517f_0.jpg" />
+    <entry file="file://$PROJECT_DIR$/final_Mall_pt.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="507" lean-forward="true" selection-start-line="8" selection-start-column="507" selection-end-line="8" selection-end-column="507" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_hat.txt" />
+    <entry file="file://$PROJECT_DIR$/face_train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="93" selection-start-line="1" selection-start-column="93" selection-end-line="1" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/data/OID_origin/tools/new_txt/augfile_Umbrella.txt" />
+    <entry file="file://$PROJECT_DIR$/train_umbrella.txt" />
+    <entry file="file://$PROJECT_DIR$/hat.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279579" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_yuncong_mod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="191" selection-start-line="191" selection-end-line="196" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_aug_Umbrella.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="104" column="48" lean-forward="true" selection-start-line="104" selection-start-column="48" selection-end-line="104" selection-end-column="48" />
+          <folding>
+            <element signature="e#76#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/augfile_Umbrella.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-589">
+          <caret line="38" column="66" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_yuncong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2197">
+          <caret line="359" column="27" selection-start-line="359" selection-start-column="27" selection-end-line="359" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_image/u04.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_image/u03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_image/u02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_image/u01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/data/OID_origin/tools/new_txt/umbrella.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36336" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pt_txt/cyy_test.txt" />
+    <entry file="file://$PROJECT_DIR$/layers/functions/detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-298">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5947">
+          <caret line="319" column="65" selection-start-line="319" selection-start-column="65" selection-end-line="319" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="95" column="24" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/augmentations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="503" column="8" selection-start-line="503" selection-start-column="8" selection-end-line="503" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topytorch_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/widerface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="120" column="31" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="76" />
+          <folding>
+            <element signature="e#178#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_img.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="343" selection-start-line="343" selection-end-line="343" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layers/box_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="152" selection-start-line="152" selection-end-line="168" selection-end-column="7" />
+          <folding>
+            <element signature="e#24#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_openimages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-481">
+          <caret line="141" column="24" lean-forward="true" selection-start-line="141" selection-start-column="24" selection-end-line="141" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layers/modules/multibox_loss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="134" column="38" selection-start-line="134" selection-start-column="38" selection-end-line="134" selection-end-column="38" />
+          <folding>
+            <element signature="e#24#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_aug_mall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="82" column="40" lean-forward="true" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
+          <folding>
+            <element signature="e#76#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
