@@ -97,7 +97,10 @@ def detect(img):
         return return_json
 
     except Exception as e:
-        print('odd error')
+        # 进入异常后，自动定位异常信息并打印
+        import traceback
+        err_information = traceback.format_exc()
+        traceback.print_ex()
         cv2.imwrite('result_img/error_img.jpg', img)
         return {"code":1,
                 "msg":"system error",
