@@ -1,0 +1,1 @@
+g++ mtcnn_opencv.cpp -shared -o libmtcnndetection.so -std=c++11 -fPIC `pkg-config opencv --cflags --libs`
