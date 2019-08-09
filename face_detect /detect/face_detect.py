@@ -63,13 +63,13 @@ def detect(img):
         face_detection = lib.facedetect_cnn_y(dataptr, rows, cols, channel)
         boxes = face_detection.contents.boxes
         num = face_detection.contents.num
+        ret_data = []
 
         if num == 0:
             faceRect = []
             call_jeson(num,faceRect)
 
         else:
-            ret_data = []
             xmin,ymin,xmax,ymax=0,0,0,0
             for i in range(num):
                 xmin = boxes[i*5+0]
@@ -96,7 +96,10 @@ def detect(img):
         return return_json
 
     except Exception as e:
+        import traceback
         print('odd error')
+        err_information = traceback.format_exc()
+        traceback.print_exc()
         cv2.imwrite('result_img/error_img.jpg', img)
         return {"code":1,
                 "msg":"system error",
